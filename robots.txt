@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://idae-nightlife-note.shirtslab-mapo.xyz/sitemap.xml
